@@ -5,6 +5,7 @@ SoundMixerHardware is sub-repository of [Sound Mixer](https://github.com/Krystia
 * BOM files 
 * GERBER files
 * STL models to print.
+
 Schematic and PCB have been created using EasyEDA software which is integrated with LCSC part supplier. Using these tools speed up design process and made it easier.
 
 ## Content
@@ -41,6 +42,7 @@ Print Settings:
 * Infill: 25%
 * Supports: Yes
 * Adhesion: None
+
 ![Top Cover Model](./images/model_top.png)
 
 #### Bottom Conver Model
@@ -49,6 +51,7 @@ Print Settings:
 * Infill: 30%
 * Supports: None
 * Adhesion: None
+
 ![Bottom Cover Model](./images/model_bottom.png)
 
 #### Other Models
@@ -57,6 +60,7 @@ Print Settings:
 * Infill: 50%
 * Supports: None
 * Adhesion: Brim
+
 ![Other Models](./images/model_utils.png)
 
 ## End Result
