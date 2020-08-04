@@ -14,7 +14,7 @@ Schematic and PCB have been created using EasyEDA software which is integrated w
 * [Models](#models)
 
 ## Electric Design
-Design is very simple it consists of microcoltroller, power prividers, sliders, buttons and connectors. I predict alternative usage of linear voltage stabilizer and SMPS for more power hungry systems. Remember not to solder these parts together. All of microcoltroller pins are drived to external gold-pins.
+Design is very simple it consists of microcoltroller, power providers, sliders, buttons and connectors. I predict alternative usage of linear voltage stabilizer and SMPS for more power hungry systems. Remember not to solder these parts together. All of microcoltroller pins are drived to external gold-pins.
 
 #### Schematic
 ![Schematic](./images/schematic_image.png)
