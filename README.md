@@ -8,6 +8,8 @@ SoundMixerHardware is sub-repository of [Sound Mixer](https://github.com/Krystia
 
 Schematic and PCB have been created using EasyEDA software which is integrated with LCSC part supplier. Using these tools speed up design process and made it easier.
 
+[Easyeda Link](https://easyeda.com/krystian2004/soundmixerhardware)
+
 ## Content
 * [Description](#sound-mixer-hardware)
 * [Electric Design](#electric-design)
